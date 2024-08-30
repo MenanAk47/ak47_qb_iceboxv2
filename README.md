@@ -1,6 +1,6 @@
 # ICEBOX JOB V2 FOR GTA5 FIVEM ROLEPLAY SERVER | QBCORE FRAMEWORK
-<iframe width="560" height="315" src="https://youtu.be/L4L8pB6BaUg" frameborder="0" allowfullscreen></iframe>
 
+Showcase: https://youtu.be/L4L8pB6BaUg
 
 ## Features:
 
