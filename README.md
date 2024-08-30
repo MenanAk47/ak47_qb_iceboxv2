@@ -1,6 +1,10 @@
 # ICEBOX JOB V2 FOR GTA5 FIVEM ROLEPLAY SERVER | QBCORE FRAMEWORK
+## Links:
+Product: https://menanak47.tebex.io/package/5234849
 
 Showcase: https://youtu.be/L4L8pB6BaUg
+
+Discord: https://discord.gg/menanak47
 
 ## Features:
 
@@ -27,5 +31,3 @@ Showcase: https://youtu.be/L4L8pB6BaUg
 - Set boss menu in qb-management/client/cl_config.lua
 - Add this resource at the bottom of server.cfg
 - Restart your server
-
-## Available: https://menanak47.tebex.io/package/5234849
