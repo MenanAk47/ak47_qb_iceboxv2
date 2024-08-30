@@ -14,7 +14,7 @@ Discord: https://discord.gg/menanak47
 - Create items for you own shop
 - Add unlimited items in config
 - Crafting system 6. Boss action, employee management
-- You can make all items usable with ak47_qb_iclothing
+- You can make all items usable with [ak47_qb_iclothingv3](https://menanak47.tebex.io/package/5234870)
 
 ## Dependency:
 
